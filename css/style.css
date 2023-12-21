@@ -205,7 +205,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 100%;
+    width: 100vw;
     z-index: 10;
 }
 
