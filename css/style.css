@@ -171,7 +171,6 @@ img {
     flex-direction: row;
     gap: 4%;
     overflow: hidden;
-    padding: 5%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
@@ -233,7 +232,7 @@ img {
     align-items: center;
     justify-content: space-between;
     width: 100vw;
-    transform: translate(30%, 0%);
+    transform: translate(50%, 0%);
 }
 
 .wrap {
