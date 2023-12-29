@@ -9,14 +9,6 @@ body {
     overflow: hidden;
 }
 
-@media screen and (max-width:480px) {
-    body {
-        width: 480px;
-        height: 520px;
-        overflow: hidden;
-    }
-}
-
 a {
     text-decoration: none;
     color: #fff;
@@ -296,12 +288,15 @@ img {
 @media screen and (max-width:480px) {
     .mobile {
         width: 100vw;
-        height: 110vh;
+        height: 100vh;
         position: absolute;
         z-index: 99;
         background-color: #000;
         visibility: visible;
         overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 
@@ -323,4 +318,14 @@ img {
     background-color: #bfea88;
     color: #000;
     border-width: 0;
+}
+
+@media screen and (max-width:479px) {
+    section {
+        display: none;
+    }
+
+    section.prlxbg {
+        display: none;
+    }
 }
