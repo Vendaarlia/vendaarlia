@@ -9,9 +9,18 @@ body {
     overflow: hidden;
 }
 
+@media screen and (max-width:480px) {
+    body {
+        width: 480px;
+        height: 520px;
+        overflow: hidden;
+    }
+}
+
 a {
     text-decoration: none;
     color: #fff;
+    font-family: 'ABeeZee', sans-serif;
 }
 
 h1 {
@@ -152,7 +161,6 @@ img {
     border-color: #ffffff;
     border-radius: 30px;
     padding: 10%;
-    margin-left: 20%;
     width: 150px;
     font-family: 'ABeeZee', sans-serif;
 }
@@ -242,4 +250,76 @@ img {
     height: 100vh;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.contactlink {
+    background: linear-gradient(to right, #03a9f4,#f441a5,#03a9f4);
+    background-size: 200% 200%;
+    animation: rainbow 2s ease-in-out infinite;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: #fff;
+    font-size: 1rem;
+    display: block;
+    text-align: center;
+    transition: color .2s ease-in-out;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0;
+}
+
+.contactlink:hover {
+    color: rgba(0,0,0,0);
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+@keyframes rainbow {
+    0% {
+        background-position: left;
+    }
+
+    50% {
+        background-position: right;
+    }
+
+    100% {
+        background-position: left;
+    }
+}
+
+@media screen and (min-width:481px) {
+    .mobile {
+        display: none;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .mobile {
+        width: 100vw;
+        height: 110vh;
+        position: absolute;
+        z-index: 99;
+        background-color: #000;
+        visibility: visible;
+        overflow: hidden;
+    }
+}
+
+.btnhidennt {
+    background-color: rgba(255, 255, 255, 0);
+    color: #fff;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-radius: 30px;
+    padding: 10%;
+    width: 150px;
+    font-family: 'ABeeZee', sans-serif;
+    margin-left: 0;
+    text-transform: uppercase;
+}
+
+.btnhidennt:hover {
+    background-color: #bfea88;
+    color: #000;
+    border-width: 0;
 }
