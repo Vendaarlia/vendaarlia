@@ -227,7 +227,7 @@ img {
 
 .contentprto {
     position: absolute;
-    height: 80VH;
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
