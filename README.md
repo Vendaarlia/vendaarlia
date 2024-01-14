@@ -1,6 +1,6 @@
 # Vendaarlia Guild Website
 
-This repository contains the source code for the Vendaarlia Guild website, accessible at [https://vendaarlia.github.io/vendaarlia_guild/](https://vendaarlia.github.io/vendaarlia_guild/).
+This repository contains the source code for the Vendaarlia Guild website, accessible at [https://vendaarlia.github.io/vendaarlia/](https://vendaarlia.github.io/vendaarlia/).
 
 ## Description
 
