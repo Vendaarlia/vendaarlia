@@ -1,29 +1,20 @@
-# Vendaarlia Guild Website
+### Hi there 👋, my name is Vendaarlia
+#### I'M a 👨‍💻 Front-End Developer | UX/UI Enthusiast | 💫 Rich Animation & Interaction   | 💡 Crafting Dazzling Web Projects
+![I'M a 👨‍💻 Front-End Developer | UX/UI Enthusiast | 💫 Rich Animation & Interaction   | 💡 Crafting Dazzling Web Projects](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-This repository contains the source code for the Vendaarlia Guild website, accessible at [https://vendaarlia.github.io/vendaarlia/](https://vendaarlia.github.io/vendaarlia/).
+EVERYTHING AND ANYTHING ON UNDERGROUND LABORATORY
+In a hidden underground lab, an eccentric frontend delves into pushing
+boundary experiments exploring visuals, dimensional manipulation,
+cryptic scripts, and dark technologies.
 
-## Description
+Skills: JS / HTML / CSS / REACT / NEXT JS /
 
-The Vendaarlia Guild website serves as a platform to showcase our guild's activities, achievements, and announcements. It provides information about our community, including events, member contributions, and our mission.
+- 🔭 I’m currently working on https://vendaarlia.github.io/vendaarlia/ 
 
-## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/venda-arliariantama-276b19150/) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/VENDAARLIA999/) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='20'>](https://open.spotify.com/playlist/7Jc8tFMPvGx7L9PwGeTITm?si=07eaa533ac014eb1) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/vendaarlia) 
 
-## Features
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true)  
 
-- Homepage showcasing the guild's mission and vision.
-- Sections highlighting upcoming events and recent achievements.
-- Member profiles and contributions.
-- Contact information and ways to get involved.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries or support, please contact us at [vendaarlia9@gmail.com](mailto:vendaarlia9@gmail.com).
+![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
 
