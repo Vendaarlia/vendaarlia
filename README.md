@@ -11,7 +11,5 @@ Skills: JS / HTML / CSS / REACT / NEXT JS /
 
 - 🔭 I’m currently working on https://vendaarlia.github.io/vendaarlia/ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
 
