@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Vendaarlia
-[dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/portal%20anim.gif)
+![dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/portal%20anim.gif)
 
 ## EVERYTHING AND ANYTHING ON UNDERGROUND LABORATORY
 <br>In a hidden underground lab, an eccentric frontend delves into pushing boundary experiments exploring visuals, dimensional manipulation, cryptic scripts, and dark technologies.
