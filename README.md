@@ -18,7 +18,7 @@
   ```
 This project serves as a platform to exhibit our agency's photography projects and client testimonials.
   ```
-### - [Solstafir](https://my-nextjs-dun.vercel.app/) #### (click this for view project.)
+### - [Solstafir](https://my-nextjs-dun.vercel.app/) (click this for view project.)
   ```
 This Next.js project serves as a tribute to Solstafir, featuring various sections dedicated to the band's music, history, and upcoming events. Utilizing Next.js, I aim to create a seamless user experience while showcasing my skills in building web applications.
   ```
