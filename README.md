@@ -1,7 +1,6 @@
 # Hi there 👋, my name is Vendaarlia
 ![dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/202401302211.gif)
 
-## EVERYTHING AND ANYTHING GUILD UNDER MY ESTABLISHMENT
 <br>As a self-taught frontend developer with a background in graphic design, I fuse the fundamentals of visual aesthetics with cutting-edge web development. My educational journey in graphic design instilled in me a deep understanding of visual appeal and the importance of best practices. Equipped with a keen visual sense and perspective, I leverage my academic exploration of visuals to enhance my approach to frontend development. I am particularly drawn to animation and simplistic interactions, whether to complement a concept or simply to dazzle audiences. My goal is to captivate viewers, striving to achieve a level of attraction that is truly mesmerizing. With each project, I aim to push the boundaries of visual innovation and create experiences that leave a lasting impression.
 
 ## Skills and Experience
@@ -28,4 +27,15 @@ Through my studies, I've honed my visual sense, perspective, and explored variou
   ```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
+
+
+## Deskripsi Proyek: Vendaarlia's Everything and Anything Guild
+
+Vendaarlia's Everything and Anything Guild adalah sebuah proyek pembuatan website portfolio yang menawarkan pengalaman unik dalam menjelajahi dunia dungeon dan party yang dikendalikan oleh sekelompok ilmuwan maniak. Setiap halaman dalam website ini mewakili bagian dari sebuah guild yang bertujuan mengelola sebuah dungeon dan party, dengan pengguna diidentifikasi sebagai "traveler".
+
+Dibangun dengan menggunakan teknologi Next.js, proyek ini merupakan kolaborasi antara ilmuwan gila dengan keahlian dalam desain dan pemrograman yang ekstrem untuk mencapai hasil yang unik dan berbeda dari website-website portfolio lainnya.
+
+Dalam pengalaman pengguna, setiap halaman website mewakili ruang atau bagian dari dungeon yang dikelola oleh guild. Pengguna diundang untuk menjelajahi setiap ruang dan menemukan karya-karya kreatif yang dihasilkan oleh guild tersebut. Setiap karya memiliki nuansa yang aneh dan unik, mencerminkan eksperimen desain dan pemrograman yang dilakukan oleh ilmuwan maniak.
+
+Dengan demikian, Vendaarlia's Everything and Anything Guild menawarkan pengalaman yang memikat dan menghibur bagi pengunjungnya, sambil memamerkan portofolio kreatif dari sekelompok ilmuwan gila yang berbakat dalam desain dan pemrograman.
 
