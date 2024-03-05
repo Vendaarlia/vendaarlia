@@ -39,3 +39,7 @@ Dalam pengalaman pengguna, setiap halaman website mewakili ruang atau bagian dar
 
 Dengan demikian, Vendaarlia's Everything and Anything Guild menawarkan pengalaman yang memikat dan menghibur bagi pengunjungnya, sambil memamerkan portofolio kreatif dari sekelompok ilmuwan gila yang berbakat dalam desain dan pemrograman.
 
+---
+
+## 🔭 The Project
+![vendaarlia project](https://vendaarlia-nextjs.vercel.app/)
