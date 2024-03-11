@@ -11,6 +11,13 @@
 * Framer Motion
 * GSAP.
 
+## Working On Progress
+
+### - [Digital Delivered](https://github.com/Vendaarlia/digital-delivered)
+#### * main branch : fundamental website
+#### * features branch : navbar mobile build
+#### * animation: framer motion components
+
 ## 🔭 My project
 
 ### - [SnapVision](snapvision-reactmapdata.vercel.app) (click this for view project.)
