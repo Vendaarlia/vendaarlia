@@ -58,7 +58,7 @@ ___
 ___
 ## GitHube Stats
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
 
 
 ## Deskripsi Proyek: Vendaarlia's Everything and Anything Guild
