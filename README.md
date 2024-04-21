@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Vendaarlia
 ![dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/202401302211.gif)
 
-<br>As a self-taught frontend developer with a background in graphic design, I fuse the fundamentals of visual aesthetics with cutting-edge web development. My educational journey in graphic design instilled in me a deep understanding of visual appeal and the importance of best practices. Equipped with a keen visual sense and perspective, I leverage my academic exploration of visuals to enhance my approach to frontend development. I am particularly drawn to animation and simplistic interactions, whether to complement a concept or simply to dazzle audiences. My goal is to captivate viewers, striving to achieve a level of attraction that is truly mesmerizing. With each project, I aim to push the boundaries of visual innovation and create experiences that leave a lasting impression.
+As a self-taught frontend developer with a background in graphic design, I fuse the fundamentals of visual aesthetics with cutting-edge web development. My educational journey in graphic design instilled in me a deep understanding of visual appeal and the importance of best practices. Equipped with a keen visual sense and perspective, I leverage my academic exploration of visuals to enhance my approach to frontend development. I am particularly drawn to animation and simplistic interactions, whether to complement a concept or simply to dazzle audiences. My goal is to captivate viewers, striving to achieve a level of attraction that is truly mesmerizing. With each project, I aim to push the boundaries of visual innovation and create experiences that leave a lasting impression.
 
 ## Skills and Experience
 
@@ -58,7 +58,7 @@ ___
 ___
 ## GitHube Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=vendaarlia&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=vendaarlia)  
 
 
 ## Deskripsi Proyek: Vendaarlia's Everything and Anything Guild
@@ -75,4 +75,4 @@ As such, Vendaarlia's Everything and Anything Guild offers an engaging and enter
 
 ## 🔭 The Project
 
-![vendaarlia project](https://vendaarlia-nextjs.vercel.app/)
+[vendaarlia project](https://vendaarlia-nextjs.vercel.app/)
