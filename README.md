@@ -1,8 +1,11 @@
 # Hi there 👋, my name is Vendaarlia
 ![dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/202401302211.gif)
 
-As a self-taught frontend developer with a background in graphic design, I fuse the fundamentals of visual aesthetics with cutting-edge web development. My educational journey in graphic design instilled in me a deep understanding of visual appeal and the importance of best practices. Equipped with a keen visual sense and perspective, I leverage my academic exploration of visuals to enhance my approach to frontend development. My goal is to captivate viewers, striving to achieve a level of attraction that is truly mesmerizing. With each project, I aim to push the boundaries of visual innovation and create experiences that leave a lasting impression.
+Hi there!... I'm VENDAARLIA, a passionate frontend developer with a background in art & design. 🎨 My journey began with a love for creativity and a knack for turning ideas into visual wonders. Now, I'm on a mission to blend my artistic flair with cutting-edge web development to create stunning digital experiences.
 
+I absolutely love diving into CSS, playing around with class names, and exploring grid layouts to achieve unique and beautiful hierarchies that stand out from the crowd. 🎨 Whether it's through vanilla CSS animations or libraries like Mo.js, Animate, Animxyz, Framer Motion, Anime.js, and GreenSock's GSAP, I'm all about creating rich, engaging interactions that captivate users.
+
+And guess what? I do it all with a sprinkle of vanilla JavaScript magic! ✨ But hey, I'm not just limited to that – I also have a solid understanding of React.js and Next.js for building dynamic, multipurpose websites. So, if you're looking to add some pizzazz to your web projects, I'm your personal Frontend developer! 🚀
 ## Skills and Experience
 
 * HTML, CSS, JS
