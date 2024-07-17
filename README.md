@@ -1,46 +1,21 @@
 # Hi there 👋, my name is Vendaarlia
 ![dungeon portal](https://github.com/Vendaarlia/vendaarlia/blob/main/img/202401302211.gif)
 
-Hi there!... I'm VENDAARLIA, a passionate frontend developer with a background in art & design. 🎨 My journey began with a love for creativity and a knack for turning ideas into visual wonders. Now, I'm on a mission to blend my artistic flair with cutting-edge web development to create stunning digital experiences.
+Hi there!... I'm VENDAARLIA, a front{Art and little bit a}end Developers who have brains that often think about unique visuals, something that is not practical, want to break JavaScript from a language logic perspective to a visual logic perspective.
 
-I absolutely love diving into CSS, playing around with class names, and exploring grid layouts to achieve unique and beautiful hierarchies that stand out from the crowd. 🎨 Whether it's through vanilla CSS animations or libraries like Mo.js, Animate, Animxyz, Framer Motion, Anime.js, and GreenSock's GSAP, I'm all about creating rich, engaging interactions that captivate users.
+In this repository is my practice and learning material using the roadmap that people use.
 
-And guess what? I do it all with a sprinkle of vanilla JavaScript magic! ✨ But hey, I'm not just limited to that – I also have a solid understanding of React.js and Next.js for building dynamic, multipurpose websites. So, if you're looking to add some pizzazz to your web projects, I'm your personal Frontend developer! 🚀
+# except the list below
+
+* None I'm still following people's roadmaps.
+
 ## Skills and Experience
 
-* HTML, CSS, JS
-* Next.js
-* React.js
-* Framer Motion
-* GSAP.
-
-## Working On Progress
-
-### - [DCARDGM.COM](https://github.com/Vendaarlia/DECARDGM)
-#### * The ultimate hub for dungeon(online world) Raiders in the vast world of digital marketing!
-#### * Free inventory for raid the dungeon(online world)
-#### * Free subdomain name for exsistenion on dungeon(online world)
-
-### - [Digital Delivered](https://github.com/Vendaarlia/digital-delivered)
-#### * main branch : fundamental website
-#### * features branch : navbar mobile build
-#### * animation: framer motion components
-
-## 🔭 My project
-
-### - [SnapVision](snapvision-reactmapdata.vercel.app) (click this for view project.)
-  ```
-This project serves as a platform to exhibit our agency's photography projects and client testimonials.
-  ```
-### - [Solstafir](https://my-nextjs-dun.vercel.app/) (click this for view project.)
-  ```
-This Next.js project serves as a tribute to Solstafir, featuring various sections dedicated to the band's music, history, and upcoming events. Utilizing Next.js, I aim to create a seamless user experience while showcasing my skills in building web applications.
-  ```
-### - [VENDAARLIA](https://vendaarlia-nextjs.vercel.app/) (click this for view project.)
-  ```
-Through my studies, I've honed my visual sense, perspective, and explored various visual concepts, influencing my approach to frontend development.
-  ```
-___
+* HTML & CSS (I'm confident with it)
+* Next.js (learning)
+* React.js (learning components)
+* Framer Motion (basic animation)
+* GSAP. (learning)
 
 ## Table of my repository sofar
 
