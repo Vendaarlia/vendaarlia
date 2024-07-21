@@ -19,20 +19,22 @@ In this repository is my practice and learning material using the roadmap that p
 
 ## Table of my repository sofar
 
-| Type Project | Next js           | React js   | plain HTML            | CSS             |
-|--------------|-------------------|------------|-----------------------|-----------------|
-|              | [Digital Delivered](https://github.com/Vendaarlia/digital-delivered) | [SnapVision](https://github.com/Vendaarlia/my-portfolio) | [Vendaarlia (EXP)](https://github.com/Vendaarlia/vendaarlia)      | [Sky city draw](https://github.com/Vendaarlia/Sky_City_Draw)   |
-|              | [Vendaarlia](https://github.com/Vendaarlia/custome-nextjs)        |            | [Solstafir web dummy](https://github.com/Vendaarlia/Solstafir_Website_Dummy)   | [Pinguin draw](https://github.com/Vendaarlia/Pinguin_Draw_Css)    |
-|              | [Solstafir](https://github.com/Vendaarlia/my-nextjs)         |            | [solstafir store dummy](https://github.com/Vendaarlia/Solstafir_Store_Dummy) | [Piano draw](https://github.com/Vendaarlia/Piano_Draw_Css)      |
-|              |                   |            | [Kaos kaki store](https://github.com/Vendaarlia/KAOS_KAKI_STORE)       | [Cat draw](https://github.com/Vendaarlia/Cat_Draw_Css)        |
-|              |                   |            | [CDG brutal color](https://github.com/Vendaarlia/CDG-brutal-color-porto)      | [Animation wheel](https://github.com/Vendaarlia/Animation_Wheel_Css) |
-|              |                   |            | [Solstafir tributte](https://github.com/Vendaarlia/Tributte_Solstafir)    |                 |
-|              |                   |            | [Solstafir discography](https://github.com/Vendaarlia/Solstafir_Discography) |                 |
-|              |                   |            | [Solstafir magazine](https://github.com/Vendaarlia/Magazine_Solstafir)    |                 |
-|              |                   |            | [survei form guild](https://github.com/Vendaarlia/survey_form_guild)     |                 |
-|              |                   |            | [Mi rament](https://github.com/Vendaarlia/port1)     |                 |
-|              |                   |            | [Vendaarlia old](https://github.com/Vendaarlia/portohub)     |                 |
-
+| Type Project | Next js                                                              | React js                                                 | plain HTML                                                                   | CSS                                                                  |
+|--------------|----------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|              | [Digital Delivered](https://github.com/Vendaarlia/digital-delivered) | [SnapVision](https://github.com/Vendaarlia/my-portfolio) | [Vendaarlia (EXP)](https://github.com/Vendaarlia/vendaarlia)                 | [Sky city draw](https://github.com/Vendaarlia/Sky_City_Draw)         |
+|              | [Vendaarlia](https://github.com/Vendaarlia/custome-nextjs)           | [Pink UI](https://github.com/Vendaarlia/pink-ui)         | [Solstafir web dummy](https://github.com/Vendaarlia/Solstafir_Website_Dummy) | [Pinguin draw](https://github.com/Vendaarlia/Pinguin_Draw_Css)       |
+|              | [Solstafir](https://github.com/Vendaarlia/my-nextjs)                 |                                                          | [solstafir store dummy](https://github.com/Vendaarlia/Solstafir_Store_Dummy) | [Piano draw](https://github.com/Vendaarlia/Piano_Draw_Css)           |
+|              | [Portal Link](https://github.com/Vendaarlia/PortalLink)              |                                                          | [Kaos kaki store](https://github.com/Vendaarlia/KAOS_KAKI_STORE)             | [Cat draw](https://github.com/Vendaarlia/Cat_Draw_Css)               |
+|              |                                                                      |                                                          | [CDG brutal color](https://github.com/Vendaarlia/CDG-brutal-color-porto)     | [Animation wheel](https://github.com/Vendaarlia/Animation_Wheel_Css) |
+|              |                                                                      |                                                          | [Solstafir tributte](https://github.com/Vendaarlia/Tributte_Solstafir)       |                                                                      |
+|              |                                                                      |                                                          | [Solstafir discography](https://github.com/Vendaarlia/Solstafir_Discography) |                                                                      |
+|              |                                                                      |                                                          | [Solstafir magazine](https://github.com/Vendaarlia/Magazine_Solstafir)       |                                                                      |
+|              |                                                                      |                                                          | [survei form guild](https://github.com/Vendaarlia/survey_form_guild)         |                                                                      |
+|              |                                                                      |                                                          | [Mi rament](https://github.com/Vendaarlia/port1)                             |                                                                      |
+|              |                                                                      |                                                          | [Vendaarlia old](https://github.com/Vendaarlia/portohub)                     |                                                                      |
+|              |                                                                      |                                                          | [DCARDGM: DUNGEON CARD GUILD MASTER](https://github.com/Vendaarlia/dcardgm)  |                                                                      |
+|              |                                                                      |                                                          | [SANTAMONIC-STUDIO](https://github.com/Vendaarlia/SANTAMONIC-STUDIO)         |                                                                      |
+|              |                                                                      |                                                          | [SMITC](https://github.com/Vendaarlia/SMITC)                                 |                                                                      |
 ___
 ## GitHube Stats
 
