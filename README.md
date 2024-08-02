@@ -7,7 +7,7 @@ In this repository is my practice and learning material using the roadmap that p
 
 # except the list below
 
-* None I'm still following people's roadmaps.
+* None I'm still following people's roadmaps. 😆
 
 ## Skills and Experience
 
